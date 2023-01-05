@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Ruby, Spring Boot, Restful API, Information System Security, Service Oriented Architecture**
 
 <!-- - 📫 How to reach me **willupdatelater** -->
 <!-- 
