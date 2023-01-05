@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Spring Boot**
 
-- 📫 How to reach me **odiceloud99@gmail.com**
+- 📫 How to reach me **willupdatelater**
 
 - 📄 Know about my experiences [willupdatelinklater.com](willupdatelinklater.com)
 
