@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **full stack application using Spring Boot and React**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps, The MERN Stack**
 
 - 👯 I’m looking to collaborate on **project as Backend developer using Spring Boot**
 
