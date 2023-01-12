@@ -23,7 +23,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=loudwige&theme=light&hide_border=false)<br/>
 ---
-### ✍️ Random Dev Quote
+### ✍️ Daily Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
