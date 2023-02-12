@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **full stack application using Spring Boot and React**
+- 🔭 I’m currently working on **full stack application using Spring Boot, Ruby**
 
-- 🌱 I’m currently learning **DevOps, The MERN Stack**
+- 🌱 I’m currently learning **Cloud Computing, VueJS**
 
 - 👯 I’m looking to collaborate on **project as Backend developer using Spring Boot**
 
