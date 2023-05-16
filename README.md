@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on **application using Spring Boot**
 
-- 🌱 I’m currently learning **AWS, React**
+- 🌱 I’m currently learning **AWS, React.**
 
-- 👯 I’m looking to collaborate on **full stack project developer using Spring Boot and React**
+- 👯 I’m looking to collaborate on **full stack projects using Spring Boot and React.**
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
