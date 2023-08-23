@@ -21,7 +21,7 @@
   <img src="https://staging.python.org/static/community_logos/python-logo-generic.svg" alt="Python" width="60" height="60"/>
  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
   <img src="https://blog.min.io/content/images/size/w2000/2021/09/1_kqpVTzo8b0e2oKdOjWQxZA.png" alt="Apache" width="60" height="60"/>
-   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="60" height="60"/>
 </a></p>
 
