@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **application using Spring Boot, Python, DynamoDB, and React**
+🔭 I’m currently working on **application using Spring Boot, Python, DynamoDB, and React**
 
-- 🌱 I’m currently learning **AWS, React, Python, and Terraform**
+🌱 I’m currently learning **AWS, React, Python, and Terraform**
 
-- 👯 I’m looking to collaborate on **full stack projects using Spring Boot and React.**
+👯 I’m looking to collaborate on **full stack projects using Spring Boot and React.**
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
