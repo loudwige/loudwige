@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **application using Python**
+- 🔭 I’m currently working on **application using Spring Boot, Python, DynamoDB**
 
-- 🌱 I’m currently learning **AWS, React, Python, and Apache Kafka**
+- 🌱 I’m currently learning **AWS, React, Python, and Terraform**
 
 - 👯 I’m looking to collaborate on **full stack projects using Spring Boot and React.**
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
-- 💬 Ask me about **Java, Spring Boot, Restful API, React**
+- 💬 Ask me about **Java, Spring Boot, Restful API, React, Python, AWS**
 
 <!-- - 📫 How to reach me **willupdatelater** -->
 <!-- 
