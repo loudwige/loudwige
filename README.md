@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-- 🔭 I’m currently working on **application using Spring Boot, Python, DynamoDB**
+- 🔭 I’m currently working on **application using Spring Boot, Python, DynamoDB, and React**
 
 - 🌱 I’m currently learning **AWS, React, Python, and Terraform**
 
