@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
-- 💬 Ask me about **Java, Spring Boot, Restful API, React, Python, AWS**
+💬 Ask me about **Java, Spring Boot, Restful API, React, Python, AWS**
 
 <!-- - 📫 How to reach me **willupdatelater** -->
 <!-- 
