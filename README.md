@@ -1,14 +1,13 @@
 # 💫 About Me:
 
-🔭 I’m currently working on **application using Python, AWS, and JS**
+🔭 "Cloud enthusiast | AWS CSAA in progress | Hashicorp Certified Terraform Associate In Progress"**
 
-🌱 I’m currently learning **AWS, JS, Python, Apache Kafka, and Terraform**
+🌱 I’m currently working with tools like **AWS, JS, Python, Apache Kafka, and Terraform**
 
 👯 I’m looking to collaborate on **full stack projects using Python.**
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
-💬 Ask me about **Javascript, Python, AWS, MS Azure, Apache Kafka**
 
 <!-- - 📫 How to reach me **willupdatelater** -->
 <!-- 
