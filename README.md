@@ -4,7 +4,7 @@
 
 🌱 I’m currently working with tools like **AWS, JS, Python, Apache Kafka, and Terraform**
 
-👯 I’m looking to collaborate on **full stack projects using Python.**
+👯 I’m looking to collaborate on **full stack projects using Java, Python, React.**
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
