@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔭 "Cloud enthusiast | AWS CSAA in progress | Hashicorp Certified Terraform Associate In Progress"**
+🔭 Cloud enthusiast | AWS CSAA in progress... | Hashicorp Certified Terraform Associate In Progress...
 
-🌱 I’m currently working with tools like **AWS, JS, Python, Apache Kafka, and Terraform**
+🌱 I’m currently working with tools like **AWS (EC2, Lambda, S3, Step-Functions,SQS,...), JS, Python, Apache Kafka, and Terraform**
 
 👯 I’m looking to collaborate on **full stack projects using Java, Python, and Javascript**
 <!-- - 📄 Check out my resume: [My Resume](https://github.com/loudwige/loudwige/blob/main/Loudwige_Odice_Resume%20(6).pdf) -->
