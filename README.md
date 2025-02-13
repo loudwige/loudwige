@@ -5,6 +5,8 @@
 🌱 I’m currently working with tools like **AWS, JS, Python, Apache Kafka, and Terraform**
 
 👯 I’m looking to collaborate on **full stack projects using Java, Python, and Javascript**
+- 📄 Check out my resume: [My Resume](https://github.com/loudwige/BuddingTechProjects2024/blob/main/Loudwige_Odice_Resume%20(6).pdf)
+
 
 <!-- - 👨‍💻 All of my projects are available at [willupdatelinklater.com](willupdatelinklater.com) -->
 
